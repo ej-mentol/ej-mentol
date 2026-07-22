@@ -1,7 +1,7 @@
 > ⚠️ **Important Note & Disclaimer**
 > - **AI Assistance:** The projects listed below were developed with the assistance of various AI agents. As a result, they may contain unexpected bugs, unhandled edge cases, or incomplete features.
 > - **Platform:** All C++/C# projects are targeted and compiled specifically for **Windows**. They have **never** been tested on Linux environments.
-> - **Development Status:** Version numbers are just numbers — all projects are continuously work-in-progress to some extent. Project READMEs within individual repositories may contain typical AI-generated claims about "completeness" or "stability". **Please treat these claims with caution** — most projects are in experimental development and are not production-ready.
+> - **Development Status:** Version numbers are just numbers — all projects are continuously work-in-progress to some extent. Project READMEs within individual repositories may contain typical AI-generated claims about "completeness" or "stability".
 
 ---
 
