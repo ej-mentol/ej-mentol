@@ -16,6 +16,7 @@
 | **[MyResourceReplacer](https://github.com/ej-mentol/MyResourceReplacer)** | Per-server resource replacement extension. | ⚠️ **WIP / Broken:** Currently does not function as intended. |
 | **[VeloHUD](https://github.com/ej-mentol/VeloHUD)** | Lightweight HUD element displaying player velocity. | - |
 | **[uwFPS](https://github.com/ej-mentol/uwFPS)** | Dynamically modifies FPS limits when submerged in water. | The FPS toggle relies on `WaterLevel`. However, changing maps, switching to OBSERVER mode, or server-side plugins can cause `WaterLevel` checks to misbehave, unintendedly shifting the FPS. |
+| **[CommandBuilder](https://github.com/ej-mentol/CommandBuilder)** | This plugin provides an interactive panel for building and executing predefined console commands using dynamic macros. | - |
 
 ### HammerTime
 | Repository | Description | Status & Notes |
