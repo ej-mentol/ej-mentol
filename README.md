@@ -23,6 +23,7 @@
 | :--- | :--- | :--- |
 | **[Brush-Builder](https://github.com/ej-mentol/Brush-Builder)** | Set of tools designed to connect and bridge 2 brushes together. | - |
 | **[Face-Tool](https://github.com/ej-mentol/Face-Tool)** | Tools for aligning and orienting brush faces relative to one another. | - |
+| **[HammerTime.Lua](https://github.com/ej-mentol/HammerTime.Lua)** | Lua scripting SDK for HammerTime. | - |
 
 ### NodeJS
 | Repository | Description | Status & Notes |
