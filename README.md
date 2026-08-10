@@ -39,8 +39,7 @@
 ### Misc
 | Repository | Description | Status & Notes |
 | :--- | :--- | :--- |
-| **[TDR2000-PAK-Extractor](https://github.com/ej-mentol/TDR2000-PAK-Extractor)** | Scripts for extracting files from Carmageddon TDR 2000 game archives. | - |
-| **[TDR2000-Track2OBJ](https://github.com/ej-mentol/Random-Scripts/tree/main/TDR2000%20Track2OBJ)** | Converts TDR 2000 track files into a single OBJ model for use in 3D editors like Blender. | - |
+| **[TDR2000-Tools](https://github.com/ej-mentol/TDR2000-Tools)** | Desktop toolkit and C# library for inspecting, extracting, and converting Carmageddon: TDR 2000 PAK files.. | - |
 | **[Unepic-Tools](https://github.com/ej-mentol/Random-Scripts/tree/main/Unepic)** | Sprite viewer and built-in editor map unlocker (toggles the multiplayer map availability bit) | - |
 | **[H3MLibCS](https://github.com/ej-mentol/H3MLibCS)** | Early-stage .NET library for converting *Heroes of Might and Magic III* map files into ML-ready formats. | ⚠️ **Incomplete:** Lacks map object type IDs and data mappings. |
 
