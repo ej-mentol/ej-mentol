@@ -17,6 +17,7 @@
 | **[VeloHUD](https://github.com/ej-mentol/VeloHUD)** | Lightweight HUD element displaying player velocity. | - |
 | **[uwFPS](https://github.com/ej-mentol/uwFPS)** | Dynamically modifies FPS limits when submerged in water. | The FPS toggle relies on `WaterLevel`. However, changing maps, switching to OBSERVER mode, or server-side plugins can cause `WaterLevel` checks to misbehave, unintendedly shifting the FPS. |
 | **[CommandBuilder](https://github.com/ej-mentol/CommandBuilder)** | This plugin provides an interactive panel for building and executing predefined console commands using dynamic macros. | - |
+| **[IgnoreMapVersion](https://github.com/ej-mentol/IgnoreMapVersion)** | A standalone MetaHookSv plugin for Sven Co-op designed to bypass client-side BSP map CRC32 mismatch errors while safeguarding against network desynchronization and client crashes. | - |
 
 ### HammerTime
 | Repository | Description | Status & Notes |
