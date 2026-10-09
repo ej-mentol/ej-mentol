@@ -44,6 +44,10 @@
 | **[Unepic-Tools](https://github.com/ej-mentol/Random-Scripts/tree/main/Unepic)** | Sprite viewer and built-in editor map unlocker (toggles the multiplayer map availability bit) | - |
 | **[H3MLibCS](https://github.com/ej-mentol/H3MLibCS)** | Early-stage .NET library for converting *Heroes of Might and Magic III* map files into ML-ready formats. | ⚠️ **Incomplete:** Lacks map object type IDs and data mappings. |
 
+### Sven Co-op AngelScript
+| Repository | Description | Status & Notes |
+| :--- | :--- | :--- |
+| **[trigger_fall_catch](https://github.com/ej-mentol/trigger_fall_catch)**| Point entity. Catches players that fall below a reference point: fires a target and/or respawns them. | - |
 
 ### **Forks:**
 
