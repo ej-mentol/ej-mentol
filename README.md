@@ -48,6 +48,7 @@
 | Repository | Description | Status & Notes |
 | :--- | :--- | :--- |
 | **[trigger_fall_catch](https://github.com/ej-mentol/trigger_fall_catch)**| Point entity. Catches players that fall below a reference point: fires a target and/or respawns them. | - |
+| **[QuakeSounds](https://github.com/ej-mentol/QuakeSounds)**| Announces kill events (First Blood, multikills, streaks and others) with a sound. | still needs tuning/tweaking |
 
 ### **Forks:**
 
