@@ -1,12 +1,3 @@
-> ⚠️ **Important Note & Disclaimer**
-> - **AI Assistance:** The projects listed below were developed with the assistance of various AI agents. As a result, they may contain unexpected bugs, unhandled edge cases, or incomplete features.
-> - **Platform:** All C++/C# projects are targeted and compiled specifically for **Windows**. They have **never** been tested on Linux environments.
-> - **Development Status:** Version numbers are just numbers — all projects are continuously work-in-progress to some extent. Project READMEs within individual repositories may contain typical AI-generated claims about "completeness" or "stability".
-
----
-
-## 🛠️ Repositories Overview
-
 ### MetaHookSV
 | Repository | Description | Status & Notes |
 | :--- | :--- | :--- |
@@ -49,6 +40,11 @@
 | :--- | :--- | :--- |
 | **[trigger_fall_catch](https://github.com/ej-mentol/trigger_fall_catch)**| Point entity. Catches players that fall below a reference point: fires a target and/or respawns them. | - |
 | **[QuakeSounds](https://github.com/ej-mentol/QuakeSounds)**| Announces kill events (First Blood, multikills, streaks and others) with a sound. | still needs tuning/tweaking |
+
+> ⚠️ **Important Note & Disclaimer**
+> - **AI Assistance:** The projects listed below were developed with the assistance of various AI agents. As a result, they may contain unexpected bugs, unhandled edge cases, or incomplete features.
+> - **Platform:** All C++/C# projects are targeted and compiled specifically for **Windows**. They have **never** been tested on Linux environments.
+> - **Development Status:** Version numbers are just numbers — all projects are continuously work-in-progress to some extent. Project READMEs within individual repositories may contain typical AI-generated claims about "completeness" or "stability".
 
 ### **Forks:**
 
