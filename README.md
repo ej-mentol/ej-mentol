@@ -9,6 +9,8 @@
 | **[uwFPS](https://github.com/ej-mentol/uwFPS)** | Dynamically modifies FPS limits when submerged in water. | The FPS toggle relies on `WaterLevel`. However, changing maps, switching to OBSERVER mode, or server-side plugins can cause `WaterLevel` checks to misbehave, unintendedly shifting the FPS. |
 | **[CommandBuilder](https://github.com/ej-mentol/CommandBuilder)** | This plugin provides an interactive panel for building and executing predefined console commands using dynamic macros. | - |
 | **[IgnoreMapVersion](https://github.com/ej-mentol/IgnoreMapVersion)** | A standalone MetaHookSv plugin for Sven Co-op designed to bypass client-side BSP map CRC32 mismatch errors while safeguarding against network desynchronization and client crashes. | - |
+| **[VoiceExtension](https://github.com/ej-mentol/VoiceExtension)** | Voice data injection plugin and IPC audio pipe for MetaHookSv. | ⚠️ **WIP** |
+| **[Soundpad](https://github.com/ej-mentol/Soundpad)** | In-game soundboard. A VGUI2 library of sounds with categories, chat triggers, hotkeys, event reactions and text to speech. | ⚠️ **WIP** |
 
 ### HammerTime
 | Repository | Description | Status & Notes |
@@ -40,6 +42,7 @@
 | :--- | :--- | :--- |
 | **[trigger_fall_catch](https://github.com/ej-mentol/trigger_fall_catch)**| Point entity. Catches players that fall below a reference point: fires a target and/or respawns them. | - |
 | **[QuakeSounds](https://github.com/ej-mentol/QuakeSounds)**| Announces kill events (First Blood, multikills, streaks and others) with a sound. | still needs tuning/tweaking |
+| **[ChatGames](https://github.com/ej-mentol/ChatGames)**| Server-side casino, card table, trivia and word games with a per-player bank, written in AngelScript.. | - |
 
 > ⚠️ **Important Note & Disclaimer**
 > - **AI Assistance:** The projects listed below were developed with the assistance of various AI agents. As a result, they may contain unexpected bugs, unhandled edge cases, or incomplete features.
